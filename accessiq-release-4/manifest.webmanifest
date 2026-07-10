@@ -1,0 +1,18 @@
+{
+  "name": "Access IQ",
+  "short_name": "Access IQ",
+  "description": "Access IQ calculator and manufacturer resource library for access control installers.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#04070d",
+  "theme_color": "#04070d",
+  "icons": [
+    {
+      "src": "./logo-transparent-glow.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
